@@ -22,10 +22,12 @@ python code
 | [0022-generate-parentheses](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -73,4 +75,8 @@ python code
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
