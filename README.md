@@ -50,6 +50,7 @@ python code
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0036-valid-sudoku) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ python code
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0036-valid-sudoku) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,4 +86,8 @@ python code
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
