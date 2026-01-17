@@ -34,6 +34,7 @@ python code
 | [0042-trapping-rain-water](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -67,6 +68,7 @@ python code
 | [0042-trapping-rain-water](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0047-permutations-ii) |
+| [0055-jump-game](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +123,7 @@ python code
 | ------- |
 | [0044-wildcard-matching](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
