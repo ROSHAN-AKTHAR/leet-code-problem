@@ -28,6 +28,7 @@ python code
 | [0038-count-and-say](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0187-repeated-dna-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +94,7 @@ python code
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0029-divide-two-integers) |
+| [0187-repeated-dna-sequences](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0187-repeated-dna-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,10 +102,12 @@ python code
 | [0036-valid-sudoku](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0187-repeated-dna-sequences](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0187-repeated-dna-sequences) |
 ## Stack
 |  |
 | ------- |
@@ -136,4 +140,12 @@ python code
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0047-permutations-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
