@@ -30,6 +30,7 @@ python code
 | [0044-wildcard-matching](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0187-repeated-dna-sequences) |
+| [0434-number-of-segments-in-a-string](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0434-number-of-segments-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
