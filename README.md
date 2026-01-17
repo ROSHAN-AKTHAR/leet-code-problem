@@ -11,6 +11,7 @@ python code
 | [0024-swap-nodes-in-pairs](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0025-reverse-nodes-in-k-group) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
