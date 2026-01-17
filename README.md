@@ -40,6 +40,7 @@ python code
 | [0022-generate-parentheses](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0047-permutations-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +66,7 @@ python code
 | [0039-combination-sum](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0047-permutations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,4 +121,8 @@ python code
 | ------- |
 | [0044-wildcard-matching](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0045-jump-game-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
