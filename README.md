@@ -69,6 +69,7 @@ python code
 | [0045-jump-game-ii](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0055-jump-game) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0084-largest-rectangle-in-histogram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ python code
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0084-largest-rectangle-in-histogram) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +120,7 @@ python code
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0084-largest-rectangle-in-histogram) |
 ## Greedy
 |  |
 | ------- |
