@@ -40,6 +40,7 @@ python code
 | [0044-wildcard-matching](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0055-jump-game) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,6 +76,7 @@ python code
 | [0047-permutations-ii](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0084-largest-rectangle-in-histogram) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +112,7 @@ python code
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0187-repeated-dna-sequences) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -150,4 +153,8 @@ python code
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0187-repeated-dna-sequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 <!---LeetCode Topics End-->
