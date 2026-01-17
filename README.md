@@ -10,6 +10,7 @@ python code
 | [0023-merge-k-sorted-lists](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0025-reverse-nodes-in-k-group) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +80,7 @@ python code
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0160-intersection-of-two-linked-lists) |
 ## String Matching
 |  |
 | ------- |
@@ -97,6 +99,7 @@ python code
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0037-sudoku-solver) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sliding Window
 |  |
 | ------- |
