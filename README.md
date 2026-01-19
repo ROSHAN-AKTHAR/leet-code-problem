@@ -77,6 +77,7 @@ python code
 | [0055-jump-game](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,11 +126,13 @@ python code
 | [0033-search-in-rotated-sorted-array](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0035-search-insert-position) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0037-sudoku-solver) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -157,4 +160,5 @@ python code
 |  |
 | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ROSHAN-AKTHAR/leet-code-problem/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
